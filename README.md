@@ -1,5 +1,3 @@
-# Axios Crash Course
+# Axios Ejemplos de Uso
 
-> These are the files for the YouTube Axios crash course.
-
-"start.js" is just the event listeners and empty functions. "main.js" is the completed code
+> Ejemplos de Axios para el manejo de peticiones ajax 
